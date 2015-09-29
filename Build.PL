@@ -12,6 +12,11 @@ my $builder = Module::Build->new(
     },
     add_to_cleanup      => [ 'Device-Pertelian-*' ],
     create_makefile_pl => 'traditional',
+    meta_merge => {
+        resources => {
+            repository => 'http://github.com/kappa/Device-Pertelian',
+        },
+    },
 );
 
 $builder->create_build_script();
