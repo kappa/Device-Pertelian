@@ -1,0 +1,12 @@
+Build.PL
+Changes
+lib/Device/Pertelian.pm
+MANIFEST
+pertd.tgz
+README
+scripts/hello_pert.pl
+t/00-load.t
+t/01-basic.t
+t/boilerplate.t
+t/pod-coverage.t
+t/pod.t
