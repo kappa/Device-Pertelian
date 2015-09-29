@@ -1,16 +1,6 @@
 Device-Pertelian
 
-The README is used to introduce the module and provide instructions on
-how to install the module, any machine dependencies it may have (for
-example C compilers and installed libraries) and any other information
-that should be provided before the module is installed.
-
-A README file is required for CPAN modules since CPAN extracts the README
-file from a module distribution so that people browsing the archive
-can use it to get an idea of the module's uses. It is usually a good idea
-to provide version information here so that people can decide whether
-fixes for the module are worth downloading.
-
+Device::Pertelian - a driver for the Pertelian X2040 USB LCD.
 
 INSTALLATION
 
@@ -45,7 +35,13 @@ You can also look for information at:
 
 COPYRIGHT AND LICENCE
 
-Copyright (C) 2008 Alex Kapranoff
+Copyright 2008 Alex Kapranoff, all rights reserved.
 
 This program is released under the following license: GPL3
 
+In the included pertd.tgz archive there is code by:
+Frans Meulenbroeks, Ron Lauzon, Pred S. Bundalo, Chmouel Boudjnah,
+W. Richard Stevens.
+
+The code in pertd.tgz is either in Public Domain or available for
+distribution in unmodified form. See the relevant files.

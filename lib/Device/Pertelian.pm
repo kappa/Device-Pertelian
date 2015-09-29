@@ -30,7 +30,7 @@ things with it.
     my $lcd = Device::Pertelian->new('/dev/ttyUSB0');
     $lcd->clearscreen();
 
-	# write to the top row
+    # write to the top row
     $lcd->writeline(0, "Hello, world!");
     ...
 
