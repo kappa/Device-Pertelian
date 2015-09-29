@@ -10,3 +10,7 @@ t/01-basic.t
 t/boilerplate.t
 t/pod-coverage.t
 t/pod.t
+Makefile.PL
+META.yml
+META.json
+LICENSE
