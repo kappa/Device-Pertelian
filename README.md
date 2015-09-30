@@ -2,10 +2,6 @@
 
 Device::Pertelian - a driver for the Pertelian X2040 USB LCD
 
-# VERSION
-
-Version 0.02
-
 # SYNOPSIS
 
 If you have a Pertelian X2040 USB LCD screen, then you can do
@@ -81,7 +77,7 @@ and the pertd software that vanished with the main website pertelian.com.
 
 Copyright 2008 Alex Kapranoff, all rights reserved.
 
-This program is released under the following license: GPL3
+This program is released under the following license: GPL version 3
 
 In the included pertd.tgz archive there is code by:
 Frans Meulenbroeks, Ron Lauzon, Pred S. Bundalo, Chmouel Boudjnah,
