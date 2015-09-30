@@ -10,3 +10,11 @@ pm_to_blib*
 Device-Pertelian-*
 cover_db
 *.sw?
+/Device-Pertelian-*
+/.build
+/_build_params
+/Build
+/Build.bat
+!Build/
+!META.json
+!LICENSE
